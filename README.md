@@ -1,2 +1,3 @@
 # trybe-exercicios
-Repositório remoto dedicado a exercícios da Trybe
+Meu repositório de exercícios Trybe testando commit
+lista de exercicios da trybe
